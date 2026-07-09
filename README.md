@@ -32,3 +32,5 @@ linkdin video demo :- https://www.linkedin.com/posts/satyam-yadav7_python-artifi
 **Description:** Tkinter GUI Weather App integrated with OpenWeatherMap API. Shows real‑time weather, forecast, icons, and error handling.  
 **Concepts Used:** Tkinter GUI, REST API integration, Threading, Error handling.
 linkdin :- https://www.linkedin.com/posts/satyam-yadav7_internship-python-ai-activity-7468560684835024896-PFUh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF5PCEoBbvb1N9HY4aZbe2CugIoap7mlrXE
+
+<img width="1280" height="681" alt="WhatsApp Image 2026-02-12 at 4 29 45 PM" src="https://github.com/user-attachments/assets/8c484682-4791-45c1-8a29-48a5051a2d9d" />
